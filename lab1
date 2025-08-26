@@ -1,2 +1,6 @@
 This is line1 in lab1 file
+<<<<<<< HEAD
 devoops
+=======
+This is line2 in lab1 file
+>>>>>>> feature-branch
